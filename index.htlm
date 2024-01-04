@@ -1,0 +1,7 @@
+<div class="container">
+ <div class="square" onmouseover="showText('Square 1')" onmouseout="hideText()"></div>
+ <div class="square" onmouseover="showText('Square 2')" onmouseout="hideText()"></div>
+ <div class="square" onmouseover="showText('Square 3')" onmouseout="hideText()"></div>
+ <div class="square" onmouseover="showText('Square 4')" onmouseout="hideText()"></div>
+ <div id="text"></div>
+</div>
